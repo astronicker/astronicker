@@ -96,18 +96,9 @@ A minimal blogging system focused on clean reading and writing.<br><br>
 
 ## </> GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astronicker&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=38b6ff&icon_color=cb6ce6&text_color=ffffff" />
-</p>
-
----
-
-## </> Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/astronicker/astronicker/output/github-contribution-grid-snake.svg" />
-</p>
-
+<div align="center"> 
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=astronicker&layout=compact&theme=dark&hide_border=true&bg_color=000000" /> 
+</div>
 
 ---
 
