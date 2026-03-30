@@ -1,11 +1,122 @@
+<!-- ASCII HEADER -->
+<pre>
+                               █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+                              ██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+                              ███████║ ╚████╔╝ ██║   ██║███████╗███████║
+                              ██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+                              ██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
+                              ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+</pre>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astronicker?igsh=MXRkMnpjaThpenlhdQ==)
+<h2 align="center">Hi, I'm Ayush</h2>
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=astronicker&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<b>"If you're nothing without it, then you shouldn't have it."</b><br>
+<i>— Tony Stark</i>
+</p>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=astronicker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+## </> About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Android%20%7C%20Flutter-blue?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/System-Linux%20%7C%20AOSP-black?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Mindset-Clean%20%26%20Fast-success?style=for-the-badge">
+</p>
+
+```
+               ╔═══════════════════════════════════════════════════════════════════════════╗
+               ║                                SYSTEM INFO                                ║
+               ╠═══════════════════════════════════════════════════════════════════════════╣
+               ║                                                                           ║
+               ║  [▓] USER TYPE        : Working Developer                                 ║
+               ║  [▓] PRIMARY STACK    : Android | Flutter                                 ║
+               ║  [▓] ENVIRONMENT      : Linux | AOSP                                      ║
+               ║  [▓] CODE STYLE       : Clean & Fast                                      ║
+               ║  [▓] CURRENT STATUS   : Looking for opportunities                         ║
+               ║                                                                           ║
+               ╚═══════════════════════════════════════════════════════════════════════════╝
+```
+```
+              ┌────────────────────────────────────────────────────────────────────────────┐
+              │                               CORE PHILOSOPHY                              │
+              ├────────────────────────────────────────────────────────────────────────────┤
+              │                                                                            │
+              │  [+] Clean code > Clever code                                              │
+              │  [+] Performance is a feature                                              │
+              │  [+] If it's not useful, it's not worth building                           │
+              │                                                                            │
+              └────────────────────────────────────────────────────────────────────────────┘
+```
+---
+
+## </> Tech Stack
+
+### [+] Languages
+<div align="center">
+ <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=38b6ff"/> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFE900"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=cb6ce6"/> <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF"/> </div>
+
+### [+] Development
+<div align="center"> 
+<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=00bf63"/> <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=38b6ff"/> <img src="https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=ff3131"/> </div>
+
+### [+] Tools & Platforms
+<div align="center"> 
+<img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=AD1C00"/> <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ff6d4d"/> <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=00bf63"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/> </div>
+
+---
+
+## </> Projects
+
+<div align="center"> <table> <tr> <td align="center">
+
+<b>Blood Donation App</b><br><br>
+
+A platform to connect donors and recipients efficiently.<br><br>
+
+<code>Flutter</code> • <code>Real-time</code> • <code>User-focused</code>
+
+</td> </tr> </table> </div>
+
+---
+
+<div align="center"> <table> <tr> <td align="center">
+
+<b>Blogging Platform</b><br><br>
+
+A minimal blogging system focused on clean reading and writing.<br><br>
+
+<code>Fast UI</code> • <code>Minimal</code> • <code>Content-first</code>
+
+</td> </tr> </table> </div>
+
+---
+
+## </> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=astronicker&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=38b6ff&icon_color=cb6ce6&text_color=ffffff" />
+</p>
+
+---
+
+## </> Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/astronicker/astronicker/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+---
+
+## </> Let’s Connect
+
+<div align="center">
+
+<code>If you're building something interesting or hiring — I’m in.</code>
+
+</div>
+
+
+
