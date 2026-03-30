@@ -1,19 +1,17 @@
 <!-- ASCII HEADER -->
-<pre>
-                               █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-                              ██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-                              ███████║ ╚████╔╝ ██║   ██║███████╗███████║
-                              ██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-                              ██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
-                              ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-</pre>
+<div align="center"> 
+<pre> 
+ █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+███████║ ╚████╔╝ ██║   ██║███████╗███████║
+██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
+╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝ 
+</pre> 
 
-<h2 align="center">Hi, I'm Ayush</h2>
-
-<p align="center">
-<b>"If you're nothing without it, then you shouldn't have it."</b><br>
-<i>— Tony Stark</i>
-</p>
+<h2>Hi, I'm Ayush</h2> 
+<p> <b>"If you're nothing without it, then you shouldn't have it."</b><br> 
+<i>— Tony Stark</i> </p> </div>
 
 ---
 
@@ -25,30 +23,33 @@
   <img src="https://img.shields.io/badge/Mindset-Clean%20%26%20Fast-success?style=for-the-badge">
 </p>
 
-```
-               ╔═══════════════════════════════════════════════════════════════════════════╗
-               ║                                SYSTEM INFO                                ║
-               ╠═══════════════════════════════════════════════════════════════════════════╣
-               ║                                                                           ║
-               ║  [▓] USER TYPE        : Working Developer                                 ║
-               ║  [▓] PRIMARY STACK    : Android | Flutter                                 ║
-               ║  [▓] ENVIRONMENT      : Linux | AOSP                                      ║
-               ║  [▓] CODE STYLE       : Clean & Fast                                      ║
-               ║  [▓] CURRENT STATUS   : Looking for opportunities                         ║
-               ║                                                                           ║
-               ╚═══════════════════════════════════════════════════════════════════════════╝
-```
-```
-              ┌────────────────────────────────────────────────────────────────────────────┐
-              │                               CORE PHILOSOPHY                              │
-              ├────────────────────────────────────────────────────────────────────────────┤
-              │                                                                            │
-              │  [+] Clean code > Clever code                                              │
-              │  [+] Performance is a feature                                              │
-              │  [+] If it's not useful, it's not worth building                           │
-              │                                                                            │
-              └────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center"> 
+<pre> 
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                SYSTEM INFO                                ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║                                                                           ║
+║  [▓] USER TYPE        : Working Developer                                 ║
+║  [▓] PRIMARY STACK    : Android | Flutter                                 ║
+║  [▓] ENVIRONMENT      : Linux | AOSP                                      ║
+║  [▓] CODE STYLE       : Clean & Fast                                      ║
+║  [▓] CURRENT STATUS   : Looking for opportunities                         ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+</pre> </div>
+
+<div align="center"> 
+<pre> 
+┌────────────────────────────────────────────────────────────────────────────┐
+│                               CORE PHILOSOPHY                              │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  [+] Clean code > Clever code                                              │
+│  [+] Performance is a feature                                              │
+│  [+] If it's not useful, it's not worth building                           │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+</pre> </div>
 ---
 
 ## </> Tech Stack
