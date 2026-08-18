@@ -94,14 +94,6 @@ A minimal blogging system focused on clean reading and writing.<br><br>
 
 ---
 
-## </> GitHub Stats
-
-<div align="center"> 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=astronicker&layout=compact&theme=dark&hide_border=true&bg_color=000000" /> 
-</div>
-
----
-
 ## </> Let’s Connect
 
 <div align="center">
